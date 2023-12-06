@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Adithya A Binoy</h1>
 
 
-- 🌱 I’m currently learning **product engineering(front-end)**
+- 🌱 I’m currently working on Web Development **(Product Engineering)**
 - 📫 How to reach me **adithyaabinoy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
